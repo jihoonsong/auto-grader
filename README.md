@@ -35,3 +35,8 @@ Note that you need to modify this script according to your assignment to grade.
 - Though this is not perfect, it helps you a lot to skim through all source files if they produce the expected result.
 
 - You can modify this script to produce a .csv file.
+
+## License
+
+This project is licensed under the MIT License.
+See [LICENSE.md](LICENSE.md) for details.
