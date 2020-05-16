@@ -2,6 +2,12 @@
 
 This is a python script file for auto-grading assignments. I hope this would make my teaching assistant life easier :p
 
+## How it works
+
+<p align="center">
+  <img src="https://github.com/jihoonsong/auto-grader/blob/master/example.png" alt="example.png">
+</p>
+
 ## How to use
 
     .
